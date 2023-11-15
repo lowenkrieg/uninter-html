@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+color: orangered;}
+p{
+    text-align: right;
+    color: red;
+}
+#p{
+    color:chartreuse;
+}
+.p{
+    color:olive;
+}
